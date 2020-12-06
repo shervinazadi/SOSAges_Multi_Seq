@@ -1,3 +1,6 @@
 numpy
 pyvista
 trimesh
+ipyvtk-simple
+itkwidgets
+rtree
